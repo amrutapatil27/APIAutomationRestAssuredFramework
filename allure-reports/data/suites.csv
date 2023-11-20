@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Nov 20 11:31:20 CET 2023","Mon Nov 20 11:31:22 CET 2023","1958","Default Suite","APIAutomationRestAssuredFramework","org.example.misc.testFile","org.example.misc.testFile","postRequest","postRequest",""
